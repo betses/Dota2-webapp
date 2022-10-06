@@ -88,6 +88,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+Original design [idea by Nelson Sakwa on Behance.](https://www.behance.net/sakwadesignstudio)
+
 - [Setup Project](https://github.com/microverseinc/curriculum-react-redux/blob/main/group-project/project_space_travelers_hub.md)
 - [Tailwind](https://tailwindcss.com/)
 - [React Tutorials](https://ibaslogic.com/react-tutorial-for-beginners/)
