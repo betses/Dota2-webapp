@@ -5,7 +5,7 @@ import {
 import { Provider } from 'react-redux';
 import axios from 'axios';
 import Contain from '../components/Contain';
-import store from '../redux/configureStore';
+import store from '../Redux/configureStore';
 
 jest.mock('axios');
 
