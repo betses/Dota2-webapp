@@ -18,7 +18,7 @@ function Contain() {
         <img src={dota} alt="Dota logo" className="h-24 p-1 opacity-95" />
         <div className="text-[#B91B1B]">
           <p className="font-black text-3xl">Dota 2</p>
-          <p>
+          <p data-testid="num-appeared">
             {allHeros}
             Heros
           </p>
