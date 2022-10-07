@@ -4,9 +4,7 @@
 
 Dota 2 Webapp is a mobile web application to check the list of Items and hereos on DotA 2, that iscreated using React and Redux.
 
-# Live Demo
-
-Work In Progress
+## [Live Demo](https://dev--curious-tulumba-e347b8.netlify.app/)
 
 ## Built With
 
