@@ -1,16 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Space Traveler's Hub
-The Space Travelers' Hub consists of Rockets, Missions, and the My Profile section.
-- The Rockets section displays a list of all available SpaceX rockets. Users can book each rocket by clicking the reservation button or cancel the previously made booking.
-- The Missions section displays a list of current missions along with their brief description and participation status. There is also a button next to each mission that allows users to join the selected mission or leave the mission the user joined earlier.
-- The My Profile section displays all reserved rockets and space missions.
+# DotA 2 Webapp
 
+Dota 2 Webapp is a mobile web application to check the list of Items and hereos on DotA 2, that iscreated using React and Redux.
 
 # Live Demo
+
 Work In Progress
 
 ## Built With
+
 - React, Redux, Jest, HTML5, CSS3, ES6, Tailwind
 
 ### Prerequisites
@@ -23,16 +22,20 @@ Work In Progress
 To get a local copy up and running, follow these simple example steps.
 
 1. Clone the repo in your local machine:
+
 ```bash
-git clone https://github.com/RiyaBulia12/Book-Store.git
+git clone https://github.com/betses/Dota2-webapp.git
 ```
+
 2. Open terminal and cd into project and install the dependencies
+
 ```bash
-cd Book-Store
+cd Dota2-webapp
 npm install
 ```
 
 3. run the command to open the project automatically in your brower:
+
 ```bash
 npm run build
 npm start
@@ -68,19 +71,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-
-## Authors
-
-👤 **Riya Bulia**
-
-- GitHub: [@RiyaBulia12](https://github.com/RiyaBulia12)
-- LinkedIn: [Riya-Bulia](https://linkedin.com/in/riya-bulia)
+## Author
 
 👤 **Betsegaw SebSibe**
 
 - GitHub: [@betses](https://github.com/betses)
 - Twitter: [@betse_s](https://twitter.com/betse_s)
-
 
 ## 🤝 Contributing
 
@@ -91,6 +87,8 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+
+Original design [idea by Nelson Sakwa on Behance.](https://www.behance.net/sakwadesignstudio)
 
 - [Setup Project](https://github.com/microverseinc/curriculum-react-redux/blob/main/group-project/project_space_travelers_hub.md)
 - [Tailwind](https://tailwindcss.com/)
